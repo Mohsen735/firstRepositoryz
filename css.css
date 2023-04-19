@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(113, 113, 113);
+}
+p{
+    font-size: large;
+    color: brown;
+}
+ul{
+    background-color: chartreuse;
+}
+ol{
+    color: slategray;
+}
